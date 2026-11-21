@@ -10,7 +10,7 @@ The manuscript also derives qualitative stability and studies the sharp angle bo
 
 ## Statements and sources
 
-The classification is formalized using [attainable weighted supports](lean/seven-eight/src/ClusterLimit.lean). Use each package's `CheckPublic.lean` to inspect the statements and their axiom dependencies.
+The classification is formalized using [attainable weighted supports](lean/seven-eight/src/WeightedLabels.lean). Use each package's `CheckPublic.lean` to inspect the statements and their axiom dependencies.
 
 | Manuscript result | Lean declaration |
 | --- | --- |

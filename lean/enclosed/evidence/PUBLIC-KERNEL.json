@@ -1,0 +1,37 @@
+{
+  "check_sha256": "c77b6430ff2b1c98664b6047fd01fd0fdf763611a3584ccfaa7fefa1eb7c5f72",
+  "public_object_sha256": "a3a21163c3ddd348c28d816faeb01e764d13005e5c5b13ea7f30556be08f3312",
+  "public_sha256": "2c3970ab1fb9406b7514bc0be4b6e293593d1243bc4841d07196349802aefa1b",
+  "roots": {
+    "R89.Ordinary.seven_eight": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Original.full_iff_vertices": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Share.largest_at_enclosed": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Sharp.equality_four": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Sharp.sharp": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R94.Enclosed.surrounded_minimum_gap": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  }
+}

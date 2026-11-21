@@ -1,0 +1,51 @@
+{
+  "archive_bytes": 1009517,
+  "archive_sha256": "0aa7ae545cbf834cab9a184cf41f0c7f32190a64b84af1c598508aa91c61a9f5",
+  "check_sha256": "c77b6430ff2b1c98664b6047fd01fd0fdf763611a3584ccfaa7fefa1eb7c5f72",
+  "fresh_from_extracted_sources": {
+    "EnclosedRigidity": "25a22ed5c60f92ab797d5cb01bb225966b13706c87eb978b7661e2f0cbd31b67",
+    "EnclosedSharp": "0c7e9aac60dbf23d4fd5efb873fad200452135ee6480b87d2f3831f4c9ab66f4",
+    "ExtremeCount": "32cabe4a120370ad6ea7f5b225490e0f166a3e874bc5d433cd6cc2e7b622003b",
+    "InteriorEndpoints": "bf9b0ac70276ad1f350b5ac4e27ff6f04a86c7ebd557b7b3187db585f772ed41",
+    "InteriorShare": "604747e93e392c9aa3538ff3d3d28590ef657c5c0d66547d67b227d4008cf538",
+    "OpenOrdinaryMinimum": "009c050455d1cd30b49273e1c3cbea13012adbab00b5d2215b3666257f12bfb2",
+    "SelectedInteriorGap": "64c66287d67a57291ed1eefda21f9e5f04ef64fd23a196973dab55361719caa2",
+    "SevenPointMargin": "3882d21019dc749a634a996ac5a1fa33726fef3dbb5a0f3092c192406c85c20c"
+  },
+  "modules": 317,
+  "public_object_sha256": "a3a21163c3ddd348c28d816faeb01e764d13005e5c5b13ea7f30556be08f3312",
+  "public_sha256": "2c3970ab1fb9406b7514bc0be4b6e293593d1243bc4841d07196349802aefa1b",
+  "roots": {
+    "R89.Ordinary.seven_eight": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Original.full_iff_vertices": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Share.largest_at_enclosed": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Sharp.equality_four": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R89.Sharp.sharp": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R94.Enclosed.surrounded_minimum_gap": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  },
+  "verification": "Fresh public entry, independent import, extracted source recompile, pinned dependency objects on WKR"
+}

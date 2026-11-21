@@ -1,0 +1,37 @@
+{
+  "check_sha256": "d572da223f82de61ea11bb2d9d3f7604c67f44b541bf7bfa974da3e5823288be",
+  "public_object_sha256": "5d1e5accfb45add5b3445be506c3c82553f9a7eee6aa3ffbaf9a4a9fe1602892",
+  "public_sha256": "4ff1e72c2779371603a55838451e16028715d63fc55d36caabb02b2edd4787d5",
+  "roots": {
+    "R87.Stability.five_separated_endpoint": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R88.Stability.eight_near_endpoint": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.eight_shape": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.seven_geometry": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.two_centers": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R92.Seven.attainable_seven": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  }
+}

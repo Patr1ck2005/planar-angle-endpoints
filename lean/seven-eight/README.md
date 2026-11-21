@@ -1,0 +1,9 @@
+# Seven and eight limiting configurations at 120 degrees
+
+Every set of seven or more distinct ordinary points has an angle strictly above 120 degrees. The infima for seven and eight points both equal 120 degrees. The normalized minimizing profiles are now fully classified. Eight labels split equally between two sites. Seven labels split 3+4 between two sites, or 1+2+2+2 among the center and vertices of an equilateral triangle. All three listed profiles have explicit realizations. These results extend the cardinality-only equality in the pinned upstream formalization.
+
+For each positive separation fraction ρ there is a uniform positive margin. Any set of at least seven points with five points mutually separated by ρ times its diameter has maximum angle greater than 120 degrees plus the margin. Any eight-point set whose maximum angle is within the margin of 120 degrees splits into two four-point sets, each of diameter at most ρ times the full diameter. The bounds on the margins are existential.
+
+The three-page paper gives a direct proof by limiting directed chords, sign words and the exterior angles of the convex hull. The kernel proof uses the WKR weighted limiting profile theorem. In particular five or more sites have total capacity at most six at this cap. In the exceptional four-site case, three outer central angles are 120 degrees, the outer triangle angles are 60 degrees, and all radii are equal. None of these results use SAT. The unrestricted higher thresholds in JSP-000404 remain open in our formalization.
+
+The archive contains the Lean source closure of SevenEightEndpointResearch and pins the upstream revisions. It checks every packed hash and independently imports six public results. The WKR test recompiles selected geometry, example and stability modules from extracted sources with previously verified pinned dependency objects. A cold build on another machine has not been performed.

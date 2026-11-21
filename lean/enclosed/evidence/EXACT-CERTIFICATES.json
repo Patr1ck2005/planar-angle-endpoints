@@ -1,0 +1,12 @@
+{
+  "external_finite_refutations": [],
+  "method": "Pure Lean geometry and finite counting",
+  "public_roots": [
+    "R89.Sharp.sharp",
+    "R89.Sharp.equality_four",
+    "R89.Ordinary.seven_eight",
+    "R89.Share.largest_at_enclosed",
+    "R89.Original.full_iff_vertices",
+    "R94.Enclosed.surrounded_minimum_gap"
+  ]
+}

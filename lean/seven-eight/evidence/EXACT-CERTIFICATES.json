@@ -1,0 +1,12 @@
+{
+  "external_finite_refutations": [],
+  "method": "Pure Lean geometry and finite counting",
+  "public_roots": [
+    "R90.Endpoint.eight_shape",
+    "R90.Endpoint.seven_geometry",
+    "R90.Endpoint.two_centers",
+    "R92.Seven.attainable_seven",
+    "R87.Stability.five_separated_endpoint",
+    "R88.Stability.eight_near_endpoint"
+  ]
+}

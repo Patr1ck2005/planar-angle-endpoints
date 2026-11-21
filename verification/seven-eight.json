@@ -1,0 +1,49 @@
+{
+  "archive_bytes": 1018179,
+  "archive_sha256": "5d48f9cf3bcbbf5ace4df09d7c09ee887ae14975b78c836c34020d53b5014b8b",
+  "check_sha256": "d572da223f82de61ea11bb2d9d3f7604c67f44b541bf7bfa974da3e5823288be",
+  "fresh_from_extracted_sources": {
+    "EightPointClusters": "0f307e187ffa504f578a1e06daafb3d366fc79955f24c6b5386f5aedb61f76af",
+    "EndpointShapes": "01c226f903a6fcba188accd0d8e80bd7c0f0b5d945d554b670d25a7feebe7279",
+    "EquilateralInterior": "fa9e8f91324ce1e5058383ff58edd3965351c01870a8c84f207a4bb6d062bb2b",
+    "FiveSeparatedEndpoint": "673f2beac4e8b0d0f268e63e8dd731eb6d618b7306f408c5e1e82bf2fe613169",
+    "FourSiteEndpoint": "e1d55a932f9535a0fe18aa70e88e89753a67413467c2f48d1591c1038d8ba05b",
+    "SevenFourCenters": "8da0df5b3026cf9c672503e16cb87208dcc6827d4f5e342ca060b4c3ea37e636"
+  },
+  "modules": 320,
+  "public_object_sha256": "5d1e5accfb45add5b3445be506c3c82553f9a7eee6aa3ffbaf9a4a9fe1602892",
+  "public_sha256": "4ff1e72c2779371603a55838451e16028715d63fc55d36caabb02b2edd4787d5",
+  "roots": {
+    "R87.Stability.five_separated_endpoint": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R88.Stability.eight_near_endpoint": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.eight_shape": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.seven_geometry": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R90.Endpoint.two_centers": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ],
+    "R92.Seven.attainable_seven": [
+      "propext",
+      "Classical.choice",
+      "Quot.sound"
+    ]
+  },
+  "verification": "Fresh public entry, independent import, extracted source recompile, pinned dependency objects on WKR"
+}
